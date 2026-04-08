@@ -1,0 +1,1 @@
+branch é uma linha pararela usada para desenvolver novas funcionalidades
